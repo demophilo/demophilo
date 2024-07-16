@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Karl Linek. I live Vienna, Austria. I'm industrial chemist.
+- 👋 Hi, I’m Karl Linek. I live Vienna, Austria. I'm industrial chemist, software developper and mathematician.
 - 👀 I’m interested in science, chess, cycling and much more.
-- 🌱 I’m currently learning python, full-stack-development.
+- 🌱 My programming languages are HTML, CSS, JS, Python and Julia (my favorite).
 - 💞️ I’m looking to collaborate on the Collatz conjecture.
 - 📫 karl@linek.at
 
